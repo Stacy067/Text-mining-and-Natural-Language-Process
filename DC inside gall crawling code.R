@@ -105,7 +105,7 @@ View(dc_data)
 head(dc_data)
 dim(dc_data)
 
-setwd("C:\\Users\\admin\\Dropbox\\★SNU\\phD\\0. 논문\\★ Confidence level\\DC inside")
+setwd()
 
 write.csv(dc_data, "dc_data_societypolitics_1.csv", row.names = F)
 
